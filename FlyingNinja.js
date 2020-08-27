@@ -1,5 +1,3 @@
-//alert("Welcome to FloppyBlob press the up arrow to move!");
-
 var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
 
